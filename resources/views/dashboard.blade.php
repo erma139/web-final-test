@@ -62,7 +62,7 @@
             <div class="w3-padding w3-margin w3-round">
                 <h2><b>List of Subjects</b></h2>
                 <div>
-                    <button class="w3-button w3-round w3-right w3-teal w3-margin" onclick="document.getElementById('newSubject').style.display= 'block';return false;">New Item</button>
+                    <button class="w3-button w3-round w3-right w3-teal w3-margin" onclick="document.getElementById('newSubject').style.display= 'block';return false;">New Subject</button>
                 </div>
 
                 <div style="padding-right:4px">
